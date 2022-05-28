@@ -61,7 +61,7 @@ namespace Loader_1._0
             string password = ePassword.Text;
             string HWID = System.Security.Principal.WindowsIdentity.GetCurrent().User.Value;
             int expire = 0 ;
-            MySqlConnection connection = new MySqlConnection("Server=188.212.101.56; Database=atriosxy_loader;User ID=atriosxy_loader;Password=tk#Ieyh}8eIq; Pooling=true;");
+            MySqlConnection connection = new MySqlConnection("Server=localhost; Database=atriosxy_loader;User ID=atriosxy_loader;Password=tk#Ieyh}8eIq; Pooling=true;");
             connection.Open();
             if (connection.State == ConnectionState.Open)
             {
