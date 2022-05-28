@@ -9,8 +9,9 @@ namespace Loader_1._0
     
     class Globals
     {
-        public static string AdminName = "raul202 Zupsie"; // Admins separati de space
-        public static string username = ""; //Nu se umbla aici Fabiane
+        public static string AdminName = "raul202 Zupsie"; // Separate space administrators
+
+        public static string username = ""; 
     }
     
 }
