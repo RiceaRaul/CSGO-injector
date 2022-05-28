@@ -119,7 +119,7 @@ namespace Loader_1._0
             else
             {
                // MessageBox.Show();
-                msgbox message = new msgbox("Don't Exitsa Conexiunne to the database!", "error");
+                msgbox message = new msgbox("There is no connection to database!", "error");
                 message.Show();
                 connection.Close();
             }
