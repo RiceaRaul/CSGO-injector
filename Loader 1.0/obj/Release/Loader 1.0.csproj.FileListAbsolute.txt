@@ -1,0 +1,21 @@
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader_1._0.Form1.resources
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader_1._0.Properties.Resources.resources
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader 1.0.csproj.GenerateResource.cache
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader 1.0.csproj.CoreCompileInputs.cache
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\bin\Release\Bunifu_UI_v1.52.dll
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader 1.0.csproj.CopyComplete
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\bin\Release\MySql.Data.dll
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\bin\Release\Google.Protobuf.dll
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\bin\Release\MySql.Data.xml
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader_1._0.RegisterPanel.resources
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader_1._0.LoggedMenu.resources
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader_1._0.msgbox.resources
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader_1._0.adminPanel.resources
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader_1._0.generateCode.resources
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader 1.0.csprojAssemblyReference.cache
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Loader_1._0.activateAccount.resources
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\bin\Release\Atrios.exe.config
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\bin\Release\Atrios.exe
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\bin\Release\Atrios.pdb
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Atrios.exe
+D:\Visual Studio APP\Loader 1.0\Loader 1.0\obj\Release\Atrios.pdb
