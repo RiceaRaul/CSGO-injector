@@ -33,7 +33,7 @@ namespace Loader_1._0
             int Date = Int32.Parse(DateTime.Now.ToString("dd"));
             int year = Int32.Parse(DateTime.Now.ToString("yyyy"));
             int period = 0;
-            MySqlConnection connection = new MySqlConnection("Server=188.212.101.56; Database=atriosxy_loader;User ID=atriosxy_loader;Password=tk#Ieyh}8eIq; Pooling=true;");
+            MySqlConnection connection = new MySqlConnection("Server=localhost; Database=atriosxy_loader;User ID=atriosxy_loader;Password=tk#Ieyh}8eIq; Pooling=true;");
             connection.Open();
             if (connection.State == ConnectionState.Open)
             {
